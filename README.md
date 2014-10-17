@@ -15,8 +15,10 @@ $ npm install -g funpass
 ## Usage
 
 ```shell
-$ funpass # prints 10 passwords
+$ funpass
 ```
+
+this prints a list of 10 passwords
 
 ## License
 
