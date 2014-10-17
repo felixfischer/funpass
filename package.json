@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/felixfischer/funpass.git"
+  },
+  "bin": {
+    "funpass": "./index.js"
   }
 }
