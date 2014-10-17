@@ -4,8 +4,8 @@
 
 var fs = require('fs')
   , path = require('path')
-
-  , dict = fs.readFileSync('dict.txt').toString().split("\r\n")
+  , file = path.join(__dirname, 'dict.txt')
+  , dict = fs.readFileSync(file).toString().split("\r\n")
   , special = "!?.,/$%&+*#-_<>".split('')
   , maxlen = 10
   , minlen = 6
