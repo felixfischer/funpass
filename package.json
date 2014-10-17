@@ -1,6 +1,6 @@
 {
   "name": "funpass",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fun password generator",
   "main": "index.js",
   "author": "Felix Fischer <kontakt@felixfischer.com>",
