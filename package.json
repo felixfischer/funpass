@@ -1,6 +1,6 @@
 {
   "name": "funpass",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "generate strong, memorable passwords that don't suck",
   "main": "index.js",
   "author": "Felix Fischer <kontakt@felixfischer.com>",
