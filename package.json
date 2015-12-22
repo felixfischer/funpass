@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Felix Fischer <kontakt@felixfischer.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node cli.js"
+  },
   "bugs": {
     "mail": "kontakt@felixfischer.com",
     "url": "https://github.com/felixfischer/funpass/issues"
